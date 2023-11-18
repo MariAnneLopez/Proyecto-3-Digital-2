@@ -1,0 +1,6 @@
+"./adc_timer_uart2vias_spi_startup_ccs.obj"
+"./main.obj"
+"./uartstdio.obj"
+"C:/ti/TivaWare_C_Series-2.1.4.178/driverlib/ccs/Debug/driverlib.lib"
+"../tm4c123gh6pm.cmd"
+-llibc.a
